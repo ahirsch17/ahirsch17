@@ -1,14 +1,14 @@
 ### Hi, I'm Alexis
 
-Software engineer focused on practical tools, clean interfaces, and reliable systems.
+Software engineer building practical tools, clean interfaces, and reliable systems.
 
-**Currently**
-- Building products and tooling across full-stack + systems work
+**Now**
+- Software Engineer (full-time)
 - Virginia Tech Computer Science · HCI minor
 
 **Selected work**
-- [Portfolio](https://alexis-hirsch.onrender.com) — design / frontend showcase
-- [Hirsch Properties](https://github.com/ahirsch17/hirsch-properties) — leasing demo with scheduling + Postgres
+- [Portfolio](https://alexis-hirsch.onrender.com) — design / frontend
+- [Hirsch Properties](https://github.com/ahirsch17/hirsch-properties) — leasing demo · scheduling + Postgres
 - [jcapturelab](https://github.com/ahirsch17/jcapturelab) — photography booking site
 - [Sports EV system](https://github.com/ahirsch17/sports-ev-system) — multi-sport research toolkit
 
